@@ -1,0 +1,16 @@
+vn\iotstar\repository\UserRepository.class
+vn\iotstar\services\JwtService.class
+vn\iotstar\configs\ApplicationConfiguration.class
+vn\iotstar\services\AuthenticationService.class
+vn\iotstar\configs\SecurityConfiguration.class
+vn\iotstar\services\UserService.class
+vn\iotstar\entity\User.class
+vn\iotstar\JwtSpringboot3Application.class
+vn\iotstar\controllers\AuthController.class
+vn\iotstar\exceptions\GlobalExceptionHandler.class
+vn\iotstar\models\RegisterUserModel.class
+vn\iotstar\controllers\AuthenticationController.class
+vn\iotstar\models\LoginResponse.class
+vn\iotstar\models\LoginUserModel.class
+vn\iotstar\controllers\UserController.class
+vn\iotstar\filter\JwtAuthenticationFilter.class
